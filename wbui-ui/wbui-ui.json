@@ -1,96 +1,105 @@
 {
-    "WBUI2": {
-        "settings": {
-            "openbutton": 0,
-            "hideicon": false,
-            "hideiconafter": 60,
-            "iconurl": "",
-            "disableicontext": true,
-            "iconposition": 0,
-            "icontextcolor": 0,
-            "openonstart": true,
-            "openonstartonlynewplayers": true,
-            "updateinterval": 12
-        },
-        "tabs": [
-            {
-                "layout": 1,
-                "buttontext": "Welcome",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "Welcome to EZ Claps!",
-                        "text": "A friendly ARK community built by survivors, for survivors.\n\nWe're glad you're here! Our goal is a fair, fun, and stable PvE cluster with great quality-of-life while keeping the challenge of ARK.\n\nFirst Steps:\n• Link your accounts to unlock the Token Shop, rewards & Discord access\n• Check the Rules tab\n• Join our Discord for events and announcements\n\nServer rates and full mod list are on the website.\n\nGood luck, Survivor! 🦖"
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "Account Linking",
-                "imageurl": "",
-                "content": [
-                    {
-                        "title": "Account Linking",
-                        "text": "Link your in-game survivor to unlock the full experience.\n\nHow to Link:\n1. Go to https://ezclaps.co.uk/ and log in with Steam, Epic or EOS (do NOT use Google)\n2. In-game type: !getconnectcode (twice) or use /connect\n3. Paste the code on the website under Settings → Alternative Connect Methods\n4. Connect your Discord on the same page\n\nOnce linked you will get the @🌴 Beach Bob role and access to most channels.\n\nRegister your tribe on Discord as soon as possible!"
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "Shop",
-                "imageurl": "",
-                "content": [
-                    {
-                        "title": "Shop & Tokens",
-                        "text": "Tokens are the main currency. They are transferable between players.\n\nHow to Earn Tokens:\n• New Player: 100 Tokens (after linking)\n• Playtime: 50 Tokens per hour\n• Voting: 50 Tokens per vote\n• Weekly Bonus: +200 Tokens at 15 votes\n• Events: Up to 10,000 Tokens possible\n\nDiscount Tiers (playtime based):\nSurvivor 5% → Hunter 10% → Pathfinder 15% → Beastmaster 20% → Alpha 25% → Apex Legend 30%\nServer Boosters get 25% + extra perks.\n\nSuggestions? Post in #shop-suggestions on Discord.\nNeed help? Open a ticket in #support-tickets."
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "Voting",
-                "imageurl": "",
-                "content": [
-                    {
-                        "title": "Voting",
-                        "text": "Help the cluster grow and earn Tokens!\n\nYou can vote 3 times per day.\n\nRecommended Maps (concentrate votes here):\n• The Island\n• Ragnarok\n• Lost Colony\n(Will change to Gen 1 when released)\n\nHow to Vote:\n• In-game: Radial menu or F7\n• Website: ezclaps.co.uk\n• Discord: /votelist then /claim\n• ark-servers.net (after linking accounts)\n\nRewards:\n• 50 Tokens per vote\n• +200 Tokens weekly bonus at 15 votes\n\nThank you for voting!"
-                    }
-                ]
-            },
-            {
-                "layout": 4,
-                "buttontext": "Rules",
-                "imageurl": "",
-                "content": [
-                    {
-                        "title": "General Rules",
-                        "text": "• Respect others - No hate speech, harassment or toxicity\n• No cheating, hacks, dupes or exploits\n• No griefing or trolling\n• Do not steal eggs or unclaimed babies\n• Report bugs, don't exploit them"
-                    },
-                    {
-                        "title": "Building & Breeding",
-                        "text": "• One main base + small outpost (max 4x4) per map\n• Use Propagator for breeding when possible\n• Max 30 breeders out at once if breeding manually\n• Turn mating OFF when offline\n• Don't block spawns, obelisks, terminals or resources\n• Gas/Oil pumps must stay public\n• Remove temporary traps and old unused structures\n• Excessive clutter/lag causing builds may be removed"
-                    },
-                    {
-                        "title": "Replacement Policy",
-                        "text": "Admins only replace items/dinos lost due to direct admin error.\n\nWe do NOT replace losses from:\n• Deaths, disconnects, crashes\n• Lost bags or despawns\n• Normal gameplay risks"
-                    }
-                ]
-            }
-        ],
-        "links": [
-            {
-                "text": "Discord",
-                "url": "https://discord.gg/wmr9M24e4N"
-            },
-            {
-                "text": "Website",
-                "url": "https://ezclaps.co.uk/"
-            },
-            {
-                "text": "ark-servers.net",
-                "url": "https://ark-servers.net/"
-            }
-        ],
-        "version": 2
-    }
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": true,
+      "hideiconafter": 30,
+      "iconurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Logo-darkened.PNG?raw=true",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Welcome",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
+        "content": [
+          {
+            "title": "Welcome to EZ Claps!",
+            "text": "A friendly ARK community built by survivors, for survivors.\n\nWe're glad you're here! Our goal is a fair, fun, and stable PvE cluster with great quality-of-life while keeping the challenge of ARK.\n\nFirst Steps:\n• Link your accounts to unlock the Token Shop, rewards & Discord access\n• Check the Rules tab\n• Join our Discord for events and announcements\n\nServer rates and full mod list are on the website.\n\nGood luck, Survivor! 🦖"
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Account, Shop & Voting",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
+        "content": [
+          {
+            "title": "Account Linking",
+            "text": "Link your in-game survivor to unlock the full experience.\n\nHow to Link:\n1. Go to https://ezclaps.co.uk/ and log in with Steam, Epic or EOS\n2. In-game type: !getconnectcode (twice) or use /connect in #bot-commands\n3. Paste the code on the website under Settings → Alternative Connect Methods\n4. Connect your Discord on the same page\n\nOnce linked you will get the @🌴 Beach Bob role and access to most channels.\n\nRegister your tribe on Discord as soon as possible!"
+          },
+          {
+            "title": "How to Access the Shop",
+            "text": "How to Open the Shop:\n\n• Radial Menu → GSA → Shop (Or press F6 on PC)\n• You can also use the shop directly on our Community Website.\n\nUseful Bot Commands (in #bot-commands channel only):\n• /claim → Claim tokens after voting\n• /votelist → Show vote list\n• /connect → Link your account\n• /pay → Send tokens to another player\n• /players → List online players\n• /servers → Check server status"
+          },
+          {
+            "title": "Tokens & Discounts",
+            "text": "Tokens are the main currency. They are transferable between players.\n\nHow to Earn Tokens:\n• New Player: 100 Tokens (after linking)\n• Playtime: 50 Tokens per hour\n• Voting: 50 Tokens per vote\n• Weekly Bonus: +200 Tokens at 15 votes\n• Events: Up to 10,000 Tokens possible\n\nDiscount Tiers (playtime based):\nSurvivor 5% → Hunter 10% → Pathfinder 15% → Beastmaster 20% → Alpha 25% → Apex Legend 30%"
+          },
+          {
+            "title": "Voting",
+            "text": "Help the cluster grow and earn Tokens!\n\nYou can vote 3 times per day.\n\nRecommended Maps (concentrate votes here):\n• The Island\n• Ragnarok\n• Lost Colony\n\nHow to Vote:\n• ark-servers.net\n• In-game: Radial menu or F7\n• Website: ezclaps.co.uk\n• Discord: /votelist then /claim\n\nRewards:\n• 50 Tokens per vote\n• +200 Tokens weekly bonus at 15 votes\n\nThank you for voting!"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Events",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
+        "content": [
+          {
+            "title": "Gen 1 Launch Event",
+            "text": "As with all new story maps, dino and gear transfers will be disabled for the first month after Gen 1 releases. Only naked character transfers will be allowed.\n\nThe in-game shop will also be temporarily disabled during this period.\n\nWe do this to give everyone a fresh-start feeling and let players experience the new map as originally intended."
+          },
+          {
+            "title": "Launch Challenge",
+            "text": "🏆 The first tribe to ascend on Gen 1 will receive:\n\n• A personal Gas Vein at their base\n• A personal Oil Vein at their base\n• A personal Water Vein at their base\n• 10,000 Reward Tokens\n\nSolo players are also rewarded! The first solo player to ascend will receive the exact same rewards.\n\nGood luck to everyone taking on the race!"
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "Rules",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
+        "content": [
+          {
+            "title": "General Rules",
+            "text": "• Respect others - No hate speech, harassment or toxicity\n• No cheating, hacks, dupes or exploits\n• No griefing or trolling\n• Do not steal eggs or unclaimed babies\n• Report bugs, don't exploit them"
+          },
+          {
+            "title": "Building & Breeding",
+            "text": "• Use Propagator for breeding when possible\n• Max 30-50 breeders out at once if breeding manually\n• Excessive unpodded tames left as yard ornaments may be cryoed by an admin to reduce lag.\n• Turn mating OFF when offline\n• Remove temporary taming traps after use\n• Don't block spawns, obelisks, terminals, explorer notes or major resources\n• Remove old or unused structures\n• Excessive clutter or lag-causing builds may be removed\n• Gas and Oil pumps must remain public"
+          },
+          {
+            "title": "Tribe Rules",
+            "text": "• One tribe name on the cluster\n• No Human names\n• One main base + small outpost (max 4x4) per map\n• Avoid building too close to other tribes"
+          },
+          {
+            "title": "Replacement Policy",
+            "text": "Admins only replace items/dinos lost due to direct admin error.\n\nWe do NOT replace losses from:\n• Deaths (AFK, dehydration, starvation, crashes, disconnects)\n• Lost bags or despawns\n• Normal gameplay risks or player negligence"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/wmr9M24e4N"
+      },
+      {
+        "text": "Website",
+        "url": "https://ezclaps.co.uk/"
+      },
+      {
+        "text": "ark-servers.net",
+        "url": "https://ark-servers.net/"
+      }
+    ],
+    "version": 2
+  }
 }
