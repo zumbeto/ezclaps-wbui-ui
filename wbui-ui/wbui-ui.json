@@ -20,22 +20,22 @@
         "content": [
           {
             "title": "Welcome to EZ Claps!",
-            "text": "A friendly ARK community built by survivors, for survivors.\n\nWe're glad you're here! Our goal is a fair, fun, and stable PvE cluster with great quality-of-life while keeping the challenge of ARK.\n\nFirst Steps:\n• Link your accounts to unlock the Token Shop, rewards & Discord access\n• Check the Rules tab\n• Join our Discord for events and announcements\n\nServer rates and full mod list are on the website.\n\nGood luck, Survivor! 🦖"
+            "text": "A friendly modded and moderately boosted PvE cluster built by survivors, for survivors.\n\nWe run regular community events, build challenges, giveaways, and maintain Community Centers across maps where players donate tames and gear to help new survivors.\n\nOur in-game shop offers instant deliveries of dinos, gear, and resources earned through playtime and voting.\n\nFirst Steps:\n• Link your accounts to unlock the shop and rewards\n• Check the Rules tab\n• Join our Discord for events and announcements\n\nServer rates and full mod list are on the website.\n\nGood luck, Survivor!"
           }
         ]
       },
       {
         "layout": 4,
-        "buttontext": "Account Linking",
+        "buttontext": "Getting Started",
         "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
         "content": [
           {
             "title": "Account Linking",
-            "text": "Link your in-game survivor to unlock the full experience.\n\nHow to Link:\n1. Go to https://ezclaps.co.uk/ and log in with Steam, Epic or EOS\n2. In-game type: !getconnectcode (twice) or use /connect in #bot-commands\n3. Paste the code on the website under Settings → Alternative Connect Methods\n4. Connect your Discord on the same page\n\nOnce linked you will get the @🌴 Beach Bob role and access to most channels.\n\nRegister your tribe on Discord as soon as possible!"
+            "text": "Link your in-game survivor to unlock the full experience.\n\nHow to Link:\n1. Go to https://ezclaps.co.uk/ and log in with Steam, Epic or EOS\n2. In-game type: !getconnectcode (twice) or use /connect in #bot-commands\n3. Paste the code on the website under Settings → Alternative Connect Methods\n4. Connect your Discord on the same page\n\nOnce linked you will get the Beach Bob role and access to most channels.\n\nRegister your tribe on Discord as soon as possible!"
           },
           {
             "title": "How to Access the Shop",
-            "text": "How to Open the Shop:\n\n• Radial Menu → GSA → Shop (Or press F6 on PC)\n• You can also use the shop directly on our Community Website.\n\nUseful Bot Commands (in #bot-commands channel only):\n• /claim → Claim tokens after voting\n• /votelist → Show vote list\n• /connect → Link your account\n• /pay → Send tokens to another player\n• /players → List online players\n• /servers → Check server status"
+            "text": "How to Open the Shop:\n\n• In-game: Radial Menu → GSA → Shop (Or press F6 on PC)\n• You can also use the shop directly on our Community Website.\n\nUseful Bot Commands (in #bot-commands channel only):\n• /claim → Claim tokens after voting\n• /votelist → Show vote list\n• /connect → Link your account\n• /pay → Send tokens to another player\n• /players → List online players\n• /servers → Check server status"
           },
           {
             "title": "Tokens & Discounts",
@@ -54,11 +54,22 @@
         "content": [
           {
             "title": "Gen 1 Launch Event",
-            "text": "As with all new story maps, dino and gear transfers will be disabled for the first month after Gen 1 releases. Only naked character transfers will be allowed.\n\nThe in-game shop will also be temporarily disabled during this period.\n\nWe do this to give everyone a fresh-start feeling and let players experience the new map as originally intended."
+            "text": "As with all new story maps, dino and gear transfers will be disabled for the first month after Gen 1 releases. Only naked character transfers will be allowed.\n\nThe in-game shop will also be temporarily disabled during this period to give everyone a fresh-start experience."
           },
           {
             "title": "Launch Challenge",
-            "text": "🏆 The first tribe to ascend on Gen 1 will receive:\n\n• A personal Gas Vein at their base\n• A personal Oil Vein at their base\n• A personal Water Vein at their base\n• 10,000 Reward Tokens\n\nSolo players are also rewarded! The first solo player to ascend will receive the exact same rewards.\n\nGood luck to everyone taking on the race!"
+            "text": "The first tribe to ascend on Gen 1 will receive:\n\n• A personal Gas Vein at their base\n• A personal Oil Vein at their base\n• A personal Water Vein at their base\n• 10,000 Reward Tokens\n\nThe first solo player to ascend will also receive the same rewards.\n\nGood luck to everyone taking on the race!"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Community Centers",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
+        "content": [
+          {
+            "title": "Community Centers",
+            "text": "Our Community Centers are player-run hubs where survivors donate tames, gear, and resources to help new players get started.\n\nLocations:\n• The Island: 88.2 / 89.7\n• Scorched Earth: 48.8 / 72.1\n• Ragnarok: 18.5 / 95.1\n• Astraeos: 34.8 / 18.7\n• Valguero: 69.7 / 57.9\n• Lost Colony: 84.6 / 11.7\n• Svartalfheim: 57.6 / 36.1\n• Extinction: 58.5 / 40.5"
           }
         ]
       },
