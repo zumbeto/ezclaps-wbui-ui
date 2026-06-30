@@ -1,0 +1,88 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/mGt3cAF.png",
+				"content": [
+					{
+						"title": "Welcome to EZ Claps!",
+						"text": "Welcome to EZ Claps!\r\n\r\nA friendly ARK community built by survivors, for survivors.\r\n\r\nWe're glad you've joined us! Our goal is to provide a fair, friendly and long-lasting PvE experience with quality-of-life improvements while keeping the challenge and progression that make ARK enjoyable.\r\n\r\nFirst Things First\r\n\r\n• Join our Discord to stay updated on events and announcements.\r\n• Link your in-game survivor to unlock the Token Shop, voting rewards, playtime rewards and Discord access.\r\n• Read the Server Rules before you begin building.\r\n\r\nNeed More Information?\r\n\r\nOur website contains:\r\n\r\n• Server rates\r\n• Mod list\r\n• Server status\r\n\r\nUse the buttons below to visit our Discord, Website or ARK-Servers page.\r\n\r\nGood luck, Survivor!"
+					},
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Account Linking",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Account Linking",
+						"text": "Link Your Survivor\r\n\r\nTo unlock all cluster features, link your survivor to your account.\r\n\r\nStep 1\r\n• Log in to the EZ Claps Website using your Steam, Epic or EOS account.\r\n\r\nStep 2\r\n• Open Settings.\r\n• Under Alternative Connect Methods, enter the connect code generated in-game.\r\n\r\nSimply type:\r\n!getconnectcode\r\n\r\ninto global or local game chat twice, then copy the generated code into the website.\r\n\r\nStep 3\r\n• Connect your Discord account from the same Settings page.\r\n\r\nOnce linked you'll automatically receive Discord roles and gain access to community channels."
+					},
+					{
+						"title": "Token Shop",
+						"text": "Earn Tokens\r\n\r\nTokens are the main currency across the cluster.\r\nYou can earn them by:\r\n\r\n• Linking your account (100 bonus Tokens)\r\n• Playing on the cluster (50 Tokens/hour)\r\n• Voting every day (50 Tokens per vote)\r\n• Weekly vote bonus (200 Tokens after 15 votes)\r\n• Community events with prizes up to 10,000 Tokens\r\n\r\nTokens can be spent in the Shop or traded with other players.\r\n\r\nShop Discounts\r\n\r\nThe more you play, the higher your permanent shop discount becomes.\r\nDiscounts range from 5% up to 30% through our progression ranks.\r\n\r\nNeed help with linking, purchases or token rewards?\r\n\r\nOpen a support ticket on Discord.\r\n\r\nFor detailed guides and current shop information, visit our Website or Discord."
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "Server Rules",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "General Rules",
+						"text": "• Respect Others: No hate speech, harassment, or toxicity.\r\n• No Cheating: Hacks, dupes, exploits, or 3rd-party tools will result in bans.\r\n• No Griefing\r\n• No Trolling\r\n• No Exploiting Bugs/Glitches: Report exploits instead of abusing them.\r\n• No trapping players, this is trolling.\r\n• Do not steal eggs or unclaimed babies from other Survivors!\r\n• Do not direct message admins with questions that can be asked in general or tickets."
+					},
+					{
+						"title": "Building Rules",
+						"text": "• One main base per tribe on each map.\r\n• One small outpost (maximum 4×4).\r\n• Avoid building too close to other tribes.\r\n• Remove temporary taming traps.\r\n• Don't block spawns, obelisks, terminals, explorer notes or important resources.\r\n• No foundation or pillar spam.\r\n• Remove old or unused structures.\r\n• Gas and Oil Pumps must remain unlocked.\r\n• No turret boxes at Wyvern trenches. They will be removed immdetiately.\r\n• Gates should be used in moderation. Excessive gates will be removed.\r\n• Large amounts of clutter (e.g. excessive decor items, spammed structures, or light sources) can cause lag and crashes.\r\n• Respect spawn zones - no builds on player spawns. Trapped players will be freed with extreme prejudice."
+					},
+					{
+						"title": "Breeding Rules",
+						"text": "• We strongly encourage the use of the Propagator for breeding. It exists to reduce lag and eliminate the need for massive outdoor breeding lines.\r\n• If you choose to breed manually without the Propagator, you may have a maximum of 30 breeding dinos out at one time.\r\n• Turn mating OFF when offline - If tames are left on breeding admins may redgun the breeders and offspring to reduce lag.\r\n• Use cryopods/dino balls to store excess dinos - if you have excessive lag at your base, admins will ask you to cryo some tames. You are expected to comply."
+					},
+					{
+						"title": "Replacement Policy",
+						"text": "Admins only replace losses caused by admin error.\r\n\r\nWe do not replace losses caused by:\r\n• Deaths\r\n• Disconnects\r\n• Server crashes\r\n• Lost bags\r\n• Despawns\r\n• Normal gameplay"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/wmr9M24e4N"
+			},
+			{
+				"text": "Website",
+				"url": "https://ezclaps.co.uk/"
+			},
+			{
+				"text": "ark-servers.net",
+				"url": "https://ark-servers.net/"
+			}
+		],
+		"version": 2
+	}
+}
