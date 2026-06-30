@@ -95,6 +95,29 @@
             "text": "Admins only replace items/dinos lost due to direct admin error.\n\nWe do NOT replace losses from:\n• Deaths (AFK, dehydration, starvation, crashes, disconnects)\n• Lost bags or despawns\n• Normal gameplay risks or player negligence"
           }
         ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "Donations",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
+        "content": [
+          {
+            "title": "Support the Server",
+            "text": "EZ Claps is a community funded cluster. Your donations help keep the servers running, fund upgrades, and support new content.\n\nEvery contribution goes directly toward hosting costs and development. Thank you for helping us grow!"
+          },
+          {
+            "title": "One-Time Purchases",
+            "text": "Available on our website shop:\n\n• £5  → 1000 Shop Tokens\n• £10 → 2500 Shop Tokens\n• £15 → 5000 Shop Tokens\n\nAll purchases are instant delivery."
+          },
+          {
+            "title": "Subscriptions",
+            "text": "Monthly supporter tiers:\n\n• £5 / month - VIP Member\n  15% shop discount, 1000 bonus tokens, VIP giveaways, access to boosted VIP Map (Svartalfheim)\n\n• £10 / month - VIP Partner\n  25% shop discount, 2000 bonus tokens, VIP giveaways, access to boosted VIP Map\n\n• £20 / month - VIP Patron\n  35% shop discount, 3500 bonus tokens, VIP giveaways, access to boosted VIP Map"
+          },
+          {
+            "title": "Important Info",
+            "text": "Svartalfheim is a premium map. In addition to an active VIP subscription, you must also purchase the map (USD $10).\n\nRewards apply automatically after purchase or subscription.\n\nIf anything doesn't arrive correctly, open a ticket on Discord."
+          }
+        ]
       }
     ],
     "links": [
