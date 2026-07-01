@@ -60,7 +60,7 @@
       },
       {
         "layout": 2,
-        "buttontext": "Community Centers",
+        "buttontext": "Community",
         "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
         "content": [
           {
@@ -113,7 +113,7 @@
       },
       {
         "layout": 4,
-        "buttontext": "Donations",
+        "buttontext": "Support Us",
         "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
         "content": [
           {
