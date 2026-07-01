@@ -1,10 +1,10 @@
 {
   "WBUI2": {
     "settings": {
-      "openbutton": 0,
+      "openbutton": 4,
       "hideicon": true,
       "hideiconafter": 30,
-      "iconurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20In-Game-Logo.PNG?raw=true",
+      "iconurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps-In-Game-Logo.PNG?raw=true",
       "disableicontext": true,
       "iconposition": 0,
       "icontextcolor": 0,
