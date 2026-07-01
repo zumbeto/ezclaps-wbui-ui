@@ -63,13 +63,17 @@
         ]
       },
       {
-        "layout": 1,
+        "layout": 2,
         "buttontext": "Community Centers",
         "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
         "content": [
           {
             "title": "Community Centers",
             "text": "Our Community Centers are player-run hubs where survivors donate tames, gear, and resources to help new players get started.\n\nLocations:\n• The Island: 88.2 / 89.7\n• Scorched Earth: 48.8 / 72.1\n• Ragnarok: 18.5 / 95.1\n• Astraeos: 34.8 / 18.7\n• Valguero: 69.7 / 57.9\n• Lost Colony: 84.6 / 11.7\n• Svartalfheim: 57.6 / 36.1\n• Extinction: 58.5 / 40.5"
+          },
+          {
+            "title": "Public Teleporters",
+            "text": "Public Teleporter Hubs have been built across multiple maps to make travel easier for everyone.\n\nThe Island:\n• Redwoods: 52.2 / 53.7\n• Carno Island: 14.1 / 85.9\n• Red Ob: 85.3 / 12\n• NW Ruins: 10 / 15.8\n• Southern Islets: 9.9 / 81.9\n\nRagnarok:\n• Red Obelisk: 34.6 / 84.5\n• Volcano: 33.4 / 54.4\n• Viking Bay: 24.1 / 34.7\n• SW Tropics: 73.3 / 17.2\n• Highlands: 9.9 / 81.9\n• Deathsands: 76.6 / 75.1\n• Fyrewood Forest: 76.6 / 75.1\n\nExtinction:\n• Sunken Forest: 7.3 / 33.2\n• Snow Biome: 18.3 / 81.3\n• Desert Biome: 84.4 / 71.2\n• Wasteland SW: 91.2 / 12\n• King Titan Arena: -0.2 / 44.8\n\nLost Colony:\n• Malachite's Peak: 20.4 / 50.5\n• Frostpine Forest: 9.1 / 7.7\n• Shiverrun Creeks: 83.5 / 55\n• Iceleaf Timberland: 88.1 / 90.5\n• Blightfall Entrance: 49.3 / 96.4\n• Blizzardscar Reach: 38.3 / 18\n• City Entrance: 46.4 / 50.5"
           }
         ]
       },
