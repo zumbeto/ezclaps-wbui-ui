@@ -9,18 +9,33 @@
       "iconposition": 0,
       "icontextcolor": 0,
       "openonstart": true,
-      "openonstartonlynewplayers": true,
+      "openonstartonlynewplayers": false,
       "updateinterval": 12
     },
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "Welcome",
+        "buttontext": "EZ Claps Bazaar",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/bazaar-darkened-blurred.PNG?raw=true",
+        "content": [
+          {
+            "title": "The EZ Claps Bazaar",
+            "text": "The EZ Claps Bazaar is now officially open and ready for business.\n\nBuilt to bring our player-driven economy together in one place, the Bazaar is a dedicated medieval trading city featuring 42 shop plots, giving players the opportunity to establish their own stores and become part of our growing marketplace.\n\nTake some time to explore the city, wander through its streets, check out the available plots and see what other survivors have to offer.\n\nIf you find a plot you like, don’t hesitate to apply and make it your own.\n\nTo do so you will need to head over to our community website https://ezclaps.co.uk/ and fill in the application form providing the street address of the shop plot you'd like to claim.\n\nThe Bazaar is located on The Island map, coordinates: 88.2 / 89.7 (Herbivore Island)."
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Gen 1",
         "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
         "content": [
           {
-            "title": "Welcome to EZ Claps!",
-            "text": "A friendly modded and moderately boosted PvE cluster built by survivors, for survivors.\n\nWe launched in August 2025 and our community has grown quickly. We are not here to make ARK easy — we aim to make it worth playing long-term.\n\nThis is a server where veterans give away tames, experienced builders share blueprints, and new players get shown the ropes, not the door. No wipes, ever. Your progress stays yours.\n\nOur in-game shop offers instant deliveries of dinos, gear, and resources earned through playtime and voting.\n\nQuality of Life Features:\n• Boss tributes transferable between maps\n• Element transferable between maps\n• Community Centers and public teleporter hubs on most maps (see Community Centers tab)\n• Tek Teleporter auto-unlocks at level 5\n• Inventory Backup Saver\n\nFirst Steps:\n• Link your accounts to unlock the shop and rewards\n• Check the Rules tab\n• Join our Discord for events and announcements\n\nServer rates and full mod list are available on the website.\n\nGood luck, Survivor!"
+            "title": "Gen 1 Ascension Race",
+            "text": "The first tribe to ascend on Alpha or Beta difficulty will receive:\n\nBeta Ascension:\n• A personal Gas Vein at their base\n• A personal Oil Vein at their base\n\nAlpha Ascension:\n• A personal Gas Vein at their base\n• A personal Oil Vein at their base\n• A personal Water Vein at their base\n• 10,000 Shop Tokens\n\nThe first solo player to ascend will also receive the same rewards.\n\nGood luck to everyone taking on the race!"
+          },
+          {
+            "title": "Gen 1 Rules",
+            "text": "As with all new story maps, dino and gear transfers will be disabled for the first month. Only naked character transfers will be allowed.\n\nMost shop packs in the in-game shop will also be temporarily disabled during this period to give everyone a fresh-start experience.\n\n• To keep the map enjoyable for everyone and avoid overcrowding in the smaller biomes, we ask that all tribes place their main base in the Ocean biome. The other biomes should be used for your single allowed 4x4 outpost only.\n• This helps ensure more players can have viable outposts in the limited land biomes.\n• Any builds exceeding this limit will be removed. If your tribe goes over the limit, the smallest bases will be destroyed first.\n• No building in mission zones.\n• Do not block the Outpost Islands that spawn in the Ocean biome.\n• One shipyard per tribe.\n• One market per tribe."
           }
         ]
       },
@@ -48,24 +63,13 @@
         ]
       },
       {
-        "layout": 1,
-        "buttontext": "Online Players",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
-        "content": [
-          {
-            "title": "Online Players",
-            "text": "{playerlist}"
-          }
-        ]
-      },
-      {
         "layout": 2,
-        "buttontext": "Community",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
+        "buttontext": "Community Hubs",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/cc-darkened-blurred.PNG?raw=true",
         "content": [
           {
             "title": "Community Centers",
-            "text": "Our Community Centers are player-run hubs where survivors donate tames, gear, and resources to help new players get started.\n\nLocations:\n• The Island: 88.2 / 89.7\n• Scorched Earth: 48.8 / 72.1\n• Ragnarok: 18.5 / 95.1\n• Astraeos: 34.8 / 18.7\n• Valguero: 69.7 / 57.9\n• Lost Colony: 84.6 / 11.7\n• Svartalfheim: 57.6 / 36.1\n• Extinction: 58.5 / 40.5\n• The Center: 44.8 / 57.2"
+            "text": "Our Community Centers are player-run hubs where survivors donate tames, gear, and resources to help new players get started.\n\nLocations:\n• The Island: 88.2 / 89.7 (Our central marketplace)\n• Scorched Earth: 48.8 / 72.1\n• Ragnarok: 18.5 / 95.1\n• Astraeos: 34.8 / 18.7\n• Valguero: 69.7 / 57.9\n• Lost Colony: 84.6 / 11.7\n• Svartalfheim: 57.6 / 36.1\n• Extinction: 58.5 / 40.5\n• The Center: 44.8 / 57.2\n• Genesis 1 : 74.1 / 50.5"
           },
           {
             "title": "Public Teleporters",
@@ -74,17 +78,13 @@
         ]
       },
       {
-        "layout": 2,
-        "buttontext": "Gen 1",
+        "layout": 1,
+        "buttontext": "Online Players",
         "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps%20Flayer-darkened.PNG?raw=true",
         "content": [
           {
-            "title": "Gen 1 Ascension Race",
-            "text": "The first tribe to ascend on Alpha or Beta difficulty will receive:\n\nBeta Ascension:\n• A personal Gas Vein at their base\n• A personal Oil Vein at their base\n\nAlpha Ascension:\n• A personal Gas Vein at their base\n• A personal Oil Vein at their base\n• A personal Water Vein at their base\n• 10,000 Shop Tokens\n\nThe first solo player to ascend will also receive the same rewards.\n\nGood luck to everyone taking on the race!"
-          },
-          {
-            "title": "Gen 1 Rules",
-            "text": "As with all new story maps, dino and gear transfers will be disabled for the first month. Only naked character transfers will be allowed.\n\nMost shop packs in the in-game shop will also be temporarily disabled during this period to give everyone a fresh-start experience.\n\n• To keep the map enjoyable for everyone and avoid overcrowding in the smaller biomes, we ask that all tribes place their main base in the Ocean biome. The other biomes should be used for your single allowed 4x4 outpost only.\n• This helps ensure more players can have viable outposts in the limited land biomes.\n• Any builds exceeding this limit will be removed. If your tribe goes over the limit, the smallest bases will be destroyed first.\n• No building in mission zones.\n• Do not block the Outpost Islands that spawn in the Ocean biome.\n• One shipyard per tribe.\n• One market per tribe."
+            "title": "Online Players",
+            "text": "{playerlist}"
           }
         ]
       },
