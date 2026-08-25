@@ -27,7 +27,7 @@
       {
         "layout": 2,
         "buttontext": "<RichColor Color=\"0.0824,0.6078,0.5137,1\">GEN 1</>",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-drakened.PNG?raw=true",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-draker.PNG?raw=true",
         "content": [
           {
             "title": "<RichColor Color=\"0.0824,0.6078,0.5137,1\">GEN 1 ASCENSION RACE</>",
@@ -42,7 +42,7 @@
       {
         "layout": 4,
         "buttontext": "<RichColor Color=\"0.0824,0.6078,0.5137,1\">GETTING STARTED</>",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-drakened.PNG?raw=true",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-draker.PNG?raw=true",
         "content": [
           {
             "title": "<RichColor Color=\"0.0824,0.6078,0.5137,1\">HOW TO CONNECT YOUR CHARACTER</>",
@@ -80,7 +80,7 @@
       {
         "layout": 4,
         "buttontext": "<RichColor Color=\"0.0824,0.6078,0.5137,1\">RULES</>",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-drakened.PNG?raw=true",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-draker.PNG?raw=true",
         "content": [
           {
             "title": "<RichColor Color=\"0.0824,0.6078,0.5137,1\">GENERAL RULES</>",
@@ -103,7 +103,7 @@
       {
         "layout": 4,
         "buttontext": "<RichColor Color=\"0.0824,0.6078,0.5137,1\">SUPPORT EDEN</>",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-drakened.PNG?raw=true",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-draker.PNG?raw=true",
         "content": [
           {
             "title": "<RichColor Color=\"0.0824,0.6078,0.5137,1\">SUPPORT THE SERVER</>",
@@ -126,7 +126,7 @@
       {
         "layout": 1,
         "buttontext": "<RichColor Color=\"0.0824,0.6078,0.5137,1\">ONLINE PLAYERS</>",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-drakened.PNG?raw=true",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-draker.PNG?raw=true",
         "content": [
           {
             "title": "Online Players",
