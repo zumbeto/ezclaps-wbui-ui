@@ -5,7 +5,7 @@
       "hideicon": true,
       "hideiconafter": 30,
       "iconurl": "https://upload.gameserverapp.com/xQQrZCNGvfU4TlupE4x8mEIZwRdLk4dCKKxdrGfm.png",
-      "disableicontext": false,
+      "disableicontext": true,
       "iconposition": 0,
       "icontextcolor": 0,
       "openonstart": true,
@@ -95,19 +95,19 @@
         "content": [
           {
             "title": "General Rules",
-            "text": "• Respect others - No hate speech, harassment or toxicity\n• No cheating, hacks, dupes or exploits\n• No griefing or trolling\n• Do not steal eggs or unclaimed babies\n• Report bugs, don't exploit them"
+            "text": "• No hate speech, harassment, or toxic behaviour.\n• Hacks, dupes, exploits, or third-party tools that provide an unfair advantage will result in a ban.\n• Do not intentionally interfere with another player's gameplay or progression.\n• Do not deliberately provoke, obstruct, or disrupt other Survivors.\n• Report exploits to the Admin Team instead of abusing them.\n• Trapping other players is considered trolling and is not permitted.\n• Do not steal eggs or unclaimed babies belonging to other Survivors.\n• Please do not direct message Admins with questions that can be answered in general chat or through a support ticket."
           },
           {
             "title": "Building & Breeding",
-            "text": "• Use Propagator for breeding when possible\n• Max 30-50 breeders out at once if breeding manually\n• Excessive unpodded tames left as yard ornaments may be cryoed by an admin to reduce lag.\n• Turn mating OFF when offline\n• Remove temporary taming traps after use\n• Don't block spawns, obelisks, terminals, explorer notes or major resources\n• Remove old or unused structures\n• Excessive clutter or lag-causing builds may be removed\n• Gas and Oil pumps must remain public"
+            "text": "Help keep the server smooth and enjoyable for everyone. Build, breed and decorate with the performance of the cluster in mind.\n\n1. There is no strict base size limit, but don't go overboard. Use only the space you actually need and be prepared to downscale if requested by the Admin Team.\n2. Where possible, build outside the render distance of other tribes.\n3. Collect your taming traps and remove temporary structures once they are no longer needed.\n4. We strongly encourage the use of the Propagator for breeding. It exists to reduce server load and eliminate the need for large outdoor breeding lines.\n5. If you choose to breed manually without the Propagator, you may have a maximum of 40 breeding dinos out at one time.\n6. Tames left breeding while you are offline may be redgunned by Admins to reduce server load.\n7. Use cryopods or dino balls to store excess creatures. If your base is causing excessive lag, Admins may ask you to cryo some tames. You are expected to comply.\n8. Do not build on player spawn locations. Trapped players will be freed and offending structures may be removed.\n9. Do not block mission terminals, obelisks, boss zones, explorer notes, major resource locations or important player access points.\n10. Decor and building mods should be used with moderation.\n11. Excessive decorations, structures or light sources can cause lag and crashes. Prioritise performance over unnecessary decoration.\n12. Do not spam foundations or pillars simply to claim land.\n13. Take down unused pens, starter huts and abandoned structures.\n14. Excessive gates may be removed. Where possible, use Plant Species X, turrets and dino leashes instead of large walls and gate systems.\n15. Turrets used for base defence should be set to Wild Dinos Only.\n16. Turret boxes at Wyvern trenches will be removed immediately.\n17. Gas and Oil Pumps must remain unlocked and available for public use.\n"
           },
           {
             "title": "Tribe Rules",
-            "text": "• One tribe name on the cluster\n• No Human names\n• One main base + small outpost (max 4x4) per map\n• Avoid building too close to other tribes"
+            "text": "• Your tribe name must be the same on every server across the cluster.\n• Character names must not use Human as a name.\n• Each tribe may have one main base per map, plus one small outpost of no more than 4×4 foundations."
           },
           {
             "title": "Replacement Policy",
-            "text": "Admins only replace items/dinos lost due to direct admin error.\n\nWe do NOT replace losses from:\n• Deaths (AFK, dehydration, starvation, crashes, disconnects)\n• Lost bags or despawns\n• Normal gameplay risks or player negligence"
+            "text": "We do not replace items or dinos lost due to normal gameplay, including:\n\n• Deaths, including AFK, dehydration or starvation.\n• Normal gameplay risks or player negligence.\n• Lost or despawned death bags.\n\nWe do have an Inventory Backup Saver and may be able to recover and replace items lost due to:\n\n• Bugged death bags.\n• Server crashes or unexpected disconnects.\n• Other game bugs or glitches that result in item loss.\n\nRecovery is only possible when the necessary backup data is available and an Admin is available to assist. Please open a support ticket with as much information as possible when reporting a loss caused by a technical issue."
           }
         ]
       },
@@ -118,19 +118,19 @@
         "content": [
           {
             "title": "Support the Server",
-            "text": "EZ Claps is a community funded cluster. Your donations help keep the servers running, fund upgrades, and support new content.\n\nEvery contribution goes directly toward hosting costs and development. Thank you for helping us grow!"
+            "text": "Project Eden is a community funded cluster. Your donations help keep the servers running, fund upgrades, and support new content.\n\nEvery contribution goes directly toward hosting costs and development. Thank you for helping us grow!"
           },
           {
             "title": "One-Time Purchases",
-            "text": "Available on our website shop:\n\n• £5  → 1000 Shop Tokens\n• £10 → 2500 Shop Tokens\n• £15 → 5000 Shop Tokens\n\nAll purchases are instant delivery."
+            "text": "Available on our website shop:\n\n• £5  → 1000 Eden Tokens\n• £10 → 2500 Eden Tokens\n• £15 → 5000 Eden Tokens\n\nAll purchases are instant delivery."
           },
           {
             "title": "Subscriptions",
-            "text": "Monthly supporter tiers:\n\n• £5 / month - VIP Member\n  15% shop discount, 1000 bonus tokens, VIP giveaways, access to boosted VIP Map (Svartalfheim)\n\n• £10 / month - VIP Partner\n  25% shop discount, 2000 bonus tokens, VIP giveaways, access to boosted VIP Map\n\n• £20 / month - VIP Patron\n  35% shop discount, 3500 bonus tokens, VIP giveaways, access to boosted VIP Map"
+            "text": "Monthly supporter tiers:\n\n• £5 / month - VIP Member\n  15% shop discount, 1000 bonus tokens, VIP giveaways, access to boosted VIP Map \n\n• £10 / month - VIP Partner\n  25% shop discount, 2000 bonus tokens, VIP giveaways, access to boosted VIP Map\n\n• £20 / month - VIP Patron\n  35% shop discount, 3500 bonus tokens, VIP giveaways, access to boosted VIP Map"
           },
           {
             "title": "Important Info",
-            "text": "Svartalfheim is a premium map. In addition to an active VIP subscription, you must also purchase the map (USD $10).\n\nRewards apply automatically after purchase or subscription.\n\nIf anything doesn't arrive correctly, open a ticket on Discord."
+            "text": "Our boosted VIP map is Genesis 1 (VIP).\n\nRewards apply automatically after purchase or subscription.\n\nIf anything doesn't arrive correctly, open a ticket on Discord."
           }
         ]
       }
