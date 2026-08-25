@@ -4,8 +4,8 @@
       "openbutton": 4,
       "hideicon": true,
       "hideiconafter": 30,
-      "iconurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/EZ%20Claps-In-Game-Logo.PNG?raw=true",
-      "disableicontext": true,
+      "iconurl": "https://upload.gameserverapp.com/xQQrZCNGvfU4TlupE4x8mEIZwRdLk4dCKKxdrGfm.png",
+      "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
       "openonstart": true,
@@ -27,7 +27,7 @@
       {
         "layout": 2,
         "buttontext": "Gen 1",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-wbui.PNG?raw=true",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-drakened.PNG?raw=true",
         "content": [
           {
             "title": "Gen 1 Ascension Race",
@@ -42,7 +42,7 @@
       {
         "layout": 4,
         "buttontext": "Getting Started",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-wbui.PNG?raw=true",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-drakened.PNG?raw=true",
         "content": [
           {
             "title": "Account Linking",
@@ -80,7 +80,7 @@
       {
         "layout": 1,
         "buttontext": "Online Players",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-wbui.PNG?raw=true",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-drakened.PNG?raw=true",
         "content": [
           {
             "title": "Online Players",
@@ -91,7 +91,7 @@
       {
         "layout": 4,
         "buttontext": "Rules",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-wbui.PNG?raw=true",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-drakened.PNG?raw=true",
         "content": [
           {
             "title": "General Rules",
@@ -114,7 +114,7 @@
       {
         "layout": 4,
         "buttontext": "Support Us",
-        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-wbui.PNG?raw=true",
+        "imageurl": "https://github.com/zumbeto/ezclaps-wbui-ui/blob/main/wbui-ui/images/project-eden-hero-image-final-compressed-drakened.PNG?raw=true",
         "content": [
           {
             "title": "Support the Server",
